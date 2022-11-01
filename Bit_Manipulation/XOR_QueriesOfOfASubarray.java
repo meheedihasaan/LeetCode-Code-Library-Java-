@@ -9,7 +9,7 @@ package BitManipulation;
  * @author User
  */
 
-//Problem Link: https://leetcode.com/problems/xor-queries-of-a-subarray/
+Problem Link: https://leetcode.com/problems/xor-queries-of-a-subarray/
 
 public class XOR_QueriesOfOfASubarray {
     
